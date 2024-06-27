@@ -5,4 +5,8 @@ public class TestClass {
 		
 		System.out.println("ABC");
 	}
+	public static void doSomthing() {
+		
+		System.out.println("feature branch code added");
+	}
 }
